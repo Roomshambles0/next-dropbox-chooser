@@ -7,7 +7,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Roomshambles0/next-dropbox-chooser.git"
 },
   "scripts": {
     "build": "tsc",
