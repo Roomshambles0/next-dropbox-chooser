@@ -16,7 +16,7 @@ interface file{
 
 interface Chooserprops
 {
-   children: React.ReactNode
+   children?: React.ReactNode
    onSuccess: (files:any[]) => void; // replace any[] with the actual type of files
    onCancel?: () => void;
    appkey:string;
